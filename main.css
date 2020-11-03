@@ -1,0 +1,84 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+section {
+  padding: 15px;
+  margin: 0px;
+}
+
+section img {
+  width: 100%;
+}
+
+.blockTitle {
+  text-align: center;
+  background: url(https://moreislove.com/skins/responsive/images/black-line.png) repeat-x 0 50%;
+  margin-bottom: 5px;
+  display: block;
+  margin-top: 30px;
+}
+
+.blockTitle .ttl {
+  display: inline-block;
+  background: #fff;
+  padding: 3px 10px;
+  font-family: brandon-grotesque, Arial, Sylfaen;
+  color: #333;
+  font-size: 16px;
+}
+
+#lookTop {
+  margin-top: -15px;
+}
+
+.lookLine .lookTxt .lookInner {
+  background: none !important;
+  display: block !important;
+  height: auto !important;
+  padding: 5px 0 !important;
+  margin: 0 !important;
+  line-height: 18px;
+  text-align: justify;
+}
+
+.lookTxt span {
+  font-size: 14px !important;
+}
+
+.lookLine .img {
+  position: relative;
+  float: none;
+  top: 0;
+  left: 0;
+  border-radius: 0 !important;
+  width: 100%;
+  max-width: 100% !important;
+  height: auto;
+}
+
+.lookLine {
+  height: auto !important;
+  margin-top: 0;
+}
+
+img {
+  vertical-align: middle;
+  border: 0;
+}
+
+.lookCredits {
+  margin-top: 40px;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.lookTxt {
+  width: 100% !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+/*# sourceMappingURL=main.css.map */
